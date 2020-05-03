@@ -1,0 +1,35 @@
+{
+  "name": "lol-site",
+  "version": "1.0.0",
+  "description": "League Of Legends Website",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express.js": "^1.0.0",
+    "nodegit": "^0.26.5",
+    "npm-git-install": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "git-install": "*",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "npm install && git-install"
+  },
+  "gitDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antiepic93/lol_website.git"
+  },
+  "keywords": [
+    "League",
+    "Of",
+    "Legends",
+    "Website"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antiepic93/lol_website/issues"
+  },
+  "homepage": "https://github.com/antiepic93/lol_website#readme"
+}
