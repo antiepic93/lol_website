@@ -4,7 +4,7 @@
   "description": "League Of Legends Website",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express.js": "^1.0.0",
     "nodegit": "^0.26.5",
     "npm-git-install": "^0.3.0"
